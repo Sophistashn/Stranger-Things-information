@@ -1,0 +1,167 @@
+body {
+    font-family: sans-serif;
+    background-color: black;
+}
+
+header{
+    text-align: center;
+}
+a{
+    /* Main actor ׀ Music ׀ Trailer ׀Plot ׀ Information about season 5 ׀ */
+
+
+font-family: 'Inter';
+font-style: italic;
+font-weight: 900;
+font-size: 20px;
+line-height: 19px;
+
+background: linear-gradient(90deg, #A70000 0%, #560000 100%);
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+background-clip: text;
+text-fill-color: transparent;
+
+
+}
+h1{
+    /* Main actor */
+
+text-align: center;
+font-family: 'Inter';
+font-style: italic;
+font-weight: 900;
+font-size: 30px;
+line-height: 19px;
+
+background: linear-gradient(90deg, #A70000 0%, #560000 100%);
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+background-clip: text;
+text-fill-color: transparent;
+
+
+}
+p{
+ /* Millie Bobby Brown Eleven / Jane Ives */
+ width: 200px;
+font-family: 'Inter';
+font-style: italic;
+font-weight: 900;
+font-size: 16px;
+line-height: 19px;
+text-align: center;
+
+background: linear-gradient(90deg, #A70000 0%, #410000 100%);
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+background-clip: text;
+text-fill-color: transparent;
+
+
+}
+div{
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+}
+h2{
+    /* Main actor */
+
+text-align: center;
+font-family: 'Inter';
+font-style: italic;
+font-weight: 900;
+font-size: 30px;
+line-height: 19px;
+
+background: linear-gradient(90deg, #A70000 0%, #560000 100%);
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+background-clip: text;
+text-fill-color: transparent;
+ }
+
+h3{
+    /* Main actor */
+
+text-align: center;
+font-family: 'Inter';
+font-style: italic;
+font-weight: 900;
+font-size: 30px;
+line-height: 19px;
+
+background: linear-gradient(90deg, #A70000 0%, #560000 100%);
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+background-clip: text;
+text-fill-color: transparent;
+ }
+
+h4{
+    /* Main actor */
+width: 100%;
+text-align: center;
+font-family: 'Inter';
+font-style: italic;
+font-weight: 900;
+font-size: 30px;
+line-height: 19px;
+
+background: linear-gradient(90deg, #A70000 0%, #560000 100%);
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+background-clip: text;
+text-fill-color: transparent;
+ }
+
+h5{
+    /* Main actor */
+
+text-align: center;
+font-family: 'Inter';
+font-style: italic;
+font-weight: 900;
+font-size: 30px;
+line-height: 19px;
+
+background: linear-gradient(90deg, #A70000 0%, #560000 100%);
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+background-clip: text;
+text-fill-color: transparent;
+ }
+.a{
+    width: 100%;
+    text-align: left;
+}
+.footer {
+    background-color: #000; 
+    border-top: 2px solid #E50914; 
+    width: 100%;
+    text-align: left;
+}
+h6{
+    /* Main actor */
+
+text-align: center;
+font-family: 'Inter';
+font-style: italic;
+font-weight: 900;
+font-size: 30px;
+line-height: 19px;
+
+background: linear-gradient(90deg, #A70000 0%, #560000 100%);
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+background-clip: text;
+text-fill-color: transparent;
+ }
+ .k{
+    display: flex;
+    margin: 0 auto;
+    max-width: 100%;
+    height: auto;
+ }
+
